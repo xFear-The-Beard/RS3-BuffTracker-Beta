@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.map
+*.log
+*.old
+package.json
+tsconfig.json
+webpack.config.js
